@@ -1,6 +1,11 @@
 # Channel Stream
 `channel-stream` is a Golang library provides functions to handle `chan` gracefully.
 
+# Install
+```shell
+go get github.com/misssonder/channel-stream
+```
+
 # Example
 ## Filter
 ```go
