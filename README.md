@@ -1,3 +1,4 @@
+![ci](https://github.com/misssonder/channel-stream/actions/workflows/go.yml/badge.svg)
 # Channel Stream
 `channel-stream` is a Golang library provides functions to handle `chan` gracefully.
 
